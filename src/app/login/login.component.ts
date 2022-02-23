@@ -89,8 +89,8 @@ my(){
     cars.push("rd")
     console.log(cars)
     console.log(cars[2])
-    for(let i=0;i<cars.length;i++)
-    cons
+   
+   
 
     const names =["madhu","uday","uma"]
     names.push("sudhakar")
